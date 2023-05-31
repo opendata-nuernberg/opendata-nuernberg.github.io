@@ -1,11 +1,11 @@
 ---
-title: Code for Münster in der Presse
+title: Code for Nürnberg-Fürth in der Presse
 layout: page
 hero_height: is-small
 ---
 
 Unsere Arbeit findet Beachtung in Gesellschaft und Presse.
-Auf dieser Seite geben wir eine kleine Übersicht zu Presseberichten über Code for Münster und Projekten.
+Auf dieser Seite geben wir eine kleine Übersicht zu Presseberichten über Code for Nürnberg & Fürth und Projekten.
 
 {% assign sorted_articles = site.data.presse | sort:"wann" |reverse %}
 
