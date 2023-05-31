@@ -16,7 +16,6 @@ show_sidebar: false
 
 {% include events_showcase.html %}
 
-
 ## Projekte
 
 {% include projects_showcase.html %}
