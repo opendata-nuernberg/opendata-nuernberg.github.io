@@ -1,12 +1,12 @@
 # Site settings
-title: Code for Münster
-email: muenster@codefor.de
+title: Code for Nürnberg-Fürth
+email: opendata@himsel.me
 description: > # this means to ignore newlines until "baseurl:"
   Jede Woche treffen sich in ganz Deutschland „Code for Germany“ Teams, die gemeinsam an nützlichen Anwendungen und Visualisierungen rund um offene Daten und digitale Werkzeuge für Bürgerinnen arbeiten.
   Lokale Gruppen, bestehend aus Programmiererinnen, Designern und Open Data Interessierten, erproben, wie Code und Software dabei helfen können ihre Stadt und Nachbarschaft zu verbessern.
   Auch in Münster besteht seit einem Jahr eine Gruppe aus interessierten Nutzern, die sich „Code for Münster“ nennt.
 baseurl: "" # the subpath of your site, e.g. /blog, change when you fork the repo from Code for Münster!
-url: "codeformuenster.org" # the base hostname & protocol for your site
+url: "opendata-nuernberg.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -14,7 +14,8 @@ kramdown:
   smart_quotes: ["sbquo", "lsquo", "bdquo", "ldquo"]
 permalink: /:categories/:year/:month/:day/:title/
 keywords:
-  - "Münster"
+  - "Nürnberg"
+  - "Fürth§
   - "Open Data"
   - "Offene Daten"
   - "Code"
@@ -26,7 +27,7 @@ keywords:
   - "Visualisierung"
   - "Stadt"
   - "Demokratie"
-repository: codeformuenster/codeformuenster.github.io
+repository: opendata-nuernberg/opendata-nuernberg.github.io
 remote_theme: chrisrhymes/bulma-clean-theme@eb8d08e78e150b4dc5dd37742cb9f6237e0b46a7
 plugins:
   - jekyll-feed
@@ -34,16 +35,10 @@ plugins:
 footer_menu: footer_links
 
 # gem jekyll-seo-tag
-twitter:
-  username: codeformuenster
-  card: summary
-author:
-  twitter: codeformuenster
 social:
-  name: Code for Münster
+  name: Code for Nürnberg-Fürth
   links:
-    - https://twitter.com/codeformuenster
-    - https://github.com/codeformuenster
+    - https://github.com/opendata-nuernberg
 lang: de_DE
 
 # Exclude from processing.
