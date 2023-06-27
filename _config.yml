@@ -4,8 +4,8 @@ email: opendata@himsel.me
 description: > # this means to ignore newlines until "baseurl:"
   Jede Woche treffen sich in ganz Deutschland „Code for Germany“ Teams, die gemeinsam an nützlichen Anwendungen und Visualisierungen rund um offene Daten und digitale Werkzeuge für Bürgerinnen arbeiten.
   Lokale Gruppen, bestehend aus Programmiererinnen, Designern und Open Data Interessierten, erproben, wie Code und Software dabei helfen können ihre Stadt und Nachbarschaft zu verbessern.
-  Auch in Münster besteht seit einem Jahr eine Gruppe aus interessierten Nutzern, die sich „Code for Münster“ nennt.
-baseurl: "" # the subpath of your site, e.g. /blog, change when you fork the repo from Code for Münster!
+  Auch in Nürnberg besteht seit dem Jahr 2023 eine Gruppe aus interessierten Nutzern, die sich „Code for Nürnberg“ nennt.
+baseurl: "" # the subpath of your site, e.g. /blog, change when you fork the repo from Code for Nürnberg!
 url: "opendata-nuernberg.github.io" # the base hostname & protocol for your site
 
 # Build settings
@@ -19,7 +19,7 @@ keywords:
   - "Open Data"
   - "Offene Daten"
   - "Code"
-  - "Code for Münster"
+  - "Code for Nürnberg"
   - "E-Government"
   - "Transparenz"
   - "Bürgerbeteiligung"
