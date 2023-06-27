@@ -11,4 +11,4 @@ keywords:
 ---
 
 
-Mit der Klimafaktorenkarte soll bei Bürger*innen ein besseres Verständnis für die verschiedenen Faktoren, die das Klima der Stadt beeinflussen, geschaen werden. Wir visualisieren Zusammenhänge zwischen Temperatur, Flächennutzung, Bebauung, Grünflächen, uvm. und zeigen so Wärmeinseln innerhalb der Stadt auf. Außerdem visualisieren wir kühle Orte, um der Sommerhitze auszuweichen.
+Mit der Klimafaktorenkarte soll bei Bürger*innen ein besseres Verständnis für die verschiedenen Faktoren, die das Klima der Stadt beeinflussen, geschaffen werden. Wir visualisieren Zusammenhänge zwischen Temperatur, Flächennutzung, Bebauung, Grünflächen, uvm. und zeigen so Wärmeinseln innerhalb der Stadt auf. Außerdem visualisieren wir kühle Orte, um der Sommerhitze auszuweichen.
