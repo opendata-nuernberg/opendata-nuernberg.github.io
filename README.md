@@ -23,20 +23,6 @@ Our site is based on the excellent work of [codeformuenster.org](https://codefor
     # start webserver with file watch
 ```
 
-docker run -it --rm -v /Users/jsi/src/opendata/opendata-nuernberg.github.io/.:/srv/jekyll -p4000:4000 jekyll/jekyll bash
-
-
-jekyll new --skip-bundle .
-
-# only once, to add webrick to the Gemfile
-# bundle add webrick
-
-bundle install
-bundle exec jekyll serve --force_polling -H 0.0.0.0 -P 4000
-
--w watch
-
-
 ### I want to add an image to the front page carousel
 
 - Add your image to `assets/img/carousel`
