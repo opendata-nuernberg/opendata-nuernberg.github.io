@@ -23,9 +23,3 @@ show_sidebar: false
 ### Weitere Projekte
 
 {% include projects.html %}
-
-## Aktuelle Blog-Artikel
-
-{% for post in site.posts limit:2 %}
-{% include blogpost_link.html post=post %}
-{% endfor %}
